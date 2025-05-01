@@ -1,4 +1,4 @@
-# Exercice 4 : Opérations dans le terminal
+# Opérations dans le terminal
 
 ## Objectif
 
